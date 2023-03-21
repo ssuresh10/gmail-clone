@@ -27,3 +27,5 @@ yarn-error.log*
 firebase.js
 package-lock.*
 yarn.*
+.firebaserc
+firebase.*
